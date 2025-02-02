@@ -16,6 +16,7 @@ A Python-based slot machine game that allows players to choose between different
   
 
 <h3>How To Play</h3>
+
 1. Deposit Money: Enter the amount you wish to deposit to start playing. 
 
 2. Select Slot Size: Choose between a 3x3 or 5x3 grid.
