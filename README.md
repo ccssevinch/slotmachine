@@ -20,7 +20,9 @@ A Python-based slot machine game that allows players to choose between different
 7. Play Again or Quit: Continue playing or cash out your remaining balance. 
 
 
-<h3>Special thanks to Tech with Tim for providing the base code and idea that inspired this project. Additional features and customizations were added to enhance the gameplay.</h3>
+<h3>Acknowledgments</h3>
+
+Special thanks to Tech with Tim for providing the base code and idea that inspired this project. Additional features and customizations were added to enhance the gameplay.
 
 
 
