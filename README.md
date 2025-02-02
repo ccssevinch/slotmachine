@@ -17,11 +17,17 @@ A Python-based slot machine game that allows players to choose between different
 
 <h3>How To Play</h3>
 1. Deposit Money: Enter the amount you wish to deposit to start playing. 
+
 2. Select Slot Size: Choose between a 3x3 or 5x3 grid.
+
 3. Choose Lines: Decide how many lines you want to bet on.
+
 4. Place Your Bet: Enter the amount you'd like to bet per line.
+
 5. Spin the Slots: The slot machine will spin and display the outcome. 
+
 6. Check Winnings: See if you've won based on matching symbols across lines.
+
 7. Play Again or Quit: Continue playing or cash out your remaining balance. 
 
 
