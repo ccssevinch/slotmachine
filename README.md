@@ -7,11 +7,11 @@ A Python-based slot machine game that allows players to choose between different
 - Choose Slot Size: Play on a traditional 3x3 grid or a more complex 5x3 grid.
   
 - Betting System: Place bets on multiple lines with flexible betting amounts.
-- 
+
 - Symbol Variations: Different symbols have varying values and probabilities.
-- 
+ 
 - Winnings Calculation: Automatic calculation of winnings based on matching lines.
-- 
+
 - Balance Management: Deposit funds, place bets, and track your balance throughout the game.
   
 
